@@ -10,8 +10,12 @@ GEM
     httparty (0.7.8)
       crack (= 0.1.8)
     json (1.5.3)
+    mini_portile2 (2.5.1)
     net-ssh (2.2.0)
-    nokogiri (1.5.0)
+    nokogiri (1.11.4)
+      mini_portile2 (~> 2.5.0)
+      racc (~> 1.4)
+    racc (1.5.2)
     uuidtools (2.1.2)
 
 PLATFORMS
